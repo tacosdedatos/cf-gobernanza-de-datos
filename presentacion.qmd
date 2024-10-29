@@ -68,11 +68,12 @@ Enlace al artículo original -> https://atlan.com/data-governance-examples/
 
 ## Airbnb y la alfabetización de datos
 * Airbnb creó una _Data University_ interna
+* "Las organizaciones que no comprenden completamente sus datos pierden el control de ellos durante todo su ciclo de vida. Además, cuando las personas dominan la generación, el uso y la aplicación de datos, los equipos pueden tomar decisiones basadas en datos."
 
 ## GE Aviation y la habilitación de datos 
 * GE Aviation tuvo una iniciativa llamda _Self-Service Data_ (SSD)
-* Crear un equipo dedicado a _self-service_ 
-* Recolectar los datos de varios sistemas en un solo lugar
+  * Crear un equipo dedicado a _self-service_ 
+  * Recolectar los datos de varios sistemas en un solo lugar
 
 ::: {.notes}
 “Self-service initiatives often fail in large enterprises for a variety of reasons. The issues boil down to a larger problem: self-service gets treated as a one-time project that gets launched, then forgotten.”
