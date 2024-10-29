@@ -1,0 +1,85 @@
+---
+title: "Gobernanza de datos"
+format: revealjs
+---
+# Presentación: Gobernanza de Datos
+
+## Introducción
+
+### Objetivos de la clase
+- Comprender los fundamentos de la gobernanza de datos, incluyendo su definición, importancia y componentes clave.
+- Aprender a crear e implementar políticas de gobernanza que se alineen con objetivos organizacionales y normativas legales.
+- Analizar estudios de caso para ver cómo se aplican las prácticas de gobernanza de datos en diferentes industrias.
+
+### Estructura de la clase
+1. Fundamentos de la Gobernanza de Datos
+2. Creación e Implementación de Políticas de Gobernanza
+3. Estudios de Caso: Aplicación Práctica
+
+## 1. Fundamentos de la Gobernanza de Datos
+
+### ¿Qué es la Gobernanza de Datos?
+- **Definición**: Conjunto de políticas, procesos y estándares que aseguran que los datos sean gestionados adecuadamente a lo largo de su ciclo de vida.
+- **Objetivo**: Garantizar la calidad, disponibilidad, integridad y seguridad de los datos.
+
+### Importancia de la Gobernanza de Datos
+- **Decisiones informadas**: Mejora la calidad de los datos, lo que lleva a decisiones empresariales más precisas.
+- **Cumplimiento normativo**: Asegura el cumplimiento de regulaciones y estándares, como GDPR o HIPAA.
+- **Minimización de riesgos**: Reduce los riesgos asociados a la privacidad y seguridad de los datos.
+
+### Componentes Clave
+1. **Políticas y Estándares**: Guías que definen cómo se debe gestionar la información.
+2. **Propietarios de Datos**: Identificación de responsables por la calidad y protección de los datos.
+3. **Calidad de Datos**: Procedimientos para medir y mejorar la precisión y consistencia de los datos.
+4. **Seguridad y Privacidad**: Controles para proteger la información contra accesos no autorizados.
+
+## 2. Creación e Implementación de Políticas de Gobernanza
+
+### Definición de Políticas
+- **Objetivo**: Crear políticas que alineen la gestión de datos con los objetivos estratégicos de la organización.
+- **Componentes de una Política Eficaz**: Objetivos, alcance, roles y responsabilidades, procedimientos.
+
+### Pasos para Implementar una Estrategia de Gobernanza
+1. **Evaluación del Estado Actual**: Identificar problemas y oportunidades en el manejo de datos actual.
+2. **Definición de Metas**: Establecer objetivos específicos para la calidad, seguridad y uso de los datos.
+3. **Asignación de Roles**: Designar propietarios y administradores de datos.
+4. **Documentación y Comunicación**: Crear guías claras y comunicarlas a todas las partes interesadas.
+5. **Monitoreo y Mejora Continua**: Implementar métricas para medir la efectividad y realizar mejoras constantes.
+
+### Alineación con Normativas Legales
+- **Cumplimiento Normativo**: Considerar regulaciones locales e internacionales para el manejo de datos personales y su protección.
+- **Ejemplos**: GDPR en Europa, CCPA en California.
+
+## 3. Estudios de Caso: Aplicación de Gobernanza de Datos
+
+### Caso 1: Sector Financiero
+- **Contexto**: Institución bancaria implementa una estrategia de gobernanza para cumplir con normas regulatorias.
+- **Enfoque**: Priorización de la seguridad de datos financieros y reducción de riesgos de fraude.
+- **Resultados**: Mejora en la calidad de datos y cumplimiento normativo.
+
+### Caso 2: Sector Salud
+- **Contexto**: Hospital necesita asegurar la privacidad de datos médicos de pacientes.
+- **Enfoque**: Implementación de políticas de acceso y monitoreo de datos sensibles.
+- **Resultados**: Reducción de riesgos y cumplimiento con normativas como HIPAA.
+
+### Caso 3: Sector Retail
+- **Contexto**: Cadena de tiendas busca mejorar la calidad de datos para personalizar la experiencia del cliente.
+- **Enfoque**: Aplicación de gobernanza de datos para mejorar la integridad de la información sobre clientes.
+- **Resultados**: Mayor satisfacción del cliente y estrategias de marketing más precisas.
+
+## Conclusión
+
+### Recapitulación
+- **Fundamentos**: Definición y componentes clave de la gobernanza de datos.
+- **Políticas**: Cómo crear e implementar políticas efectivas alineadas con objetivos organizacionales y normativas legales.
+- **Aplicación Práctica**: Ejemplos de cómo diferentes industrias se benefician de una adecuada gobernanza de datos.
+
+### Preguntas y Discusión
+- **Q&A**: Espacio para responder preguntas y resolver dudas sobre los temas discutidos.
+- **Discusión Abierta**: Reflexionar sobre cómo la gobernanza de datos se aplica en sus contextos específicos.
+
+## Referencias
+- DAMA International. (2017). *DMBOK2: Data Management Body of Knowledge*.
+- Regulaciones como GDPR y CCPA.
+- Casos de estudio publicados en *Harvard Business Review*.
+
