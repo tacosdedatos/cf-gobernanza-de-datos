@@ -2,8 +2,8 @@
 title: "Gobernanza de datos"
 format:
   revealjs:
+    embed-resources: true
     incremental: true
-    chalkboard: true
     theme: serif
 ---
 
